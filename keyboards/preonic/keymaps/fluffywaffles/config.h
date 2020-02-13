@@ -9,7 +9,7 @@
  * separately unless I'm intentional about holding the keys together for a
  * very brief timeout.
  */
-#define IGNORE_MOD_TAP_INTERRUPT
+/* #define IGNORE_MOD_TAP_INTERRUPT */
 
 #ifdef AUDIO_ENABLE
     #define STARTUP_SONG SONG(PREONIC_SOUND)
